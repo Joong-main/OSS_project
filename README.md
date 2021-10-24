@@ -13,3 +13,6 @@
 <ol>2.서버에서 휠체어 탐지</ol>
 <ol>3. 탐지 정보 웹페이지 업로드</ol>
 <ol>4. 휠체어 리프트 담당 역무원 배치</ol>
+
+<li> 웹 인터페이스 </li>
+<img src="https://github.com/Joong-main/OSS_project/blob/main/doc/img/%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EC%9B%B9.PNG"> </img>
