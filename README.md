@@ -32,7 +32,11 @@
 
 ### 웹 인터페이스 
 <img src="https://github.com/Joong-main/OSS_project/blob/main/doc/img/%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EC%9B%B9.PNG"> </img>
+<ol>웹기반 실시간 알림 서비스 지원</ol>
+</br>
+</br>
 
 
 ### 서버
 <img src="https://github.com/Joong-main/OSS_project/blob/main/doc/img/%EC%84%9C%EB%B2%84%20%ED%8C%90%EB%B3%84.PNG"></src>
+<ol> 지도학습으로 학습된 휠체어 인식 알고리즘을 통해 휠체어 탐지</ol>
