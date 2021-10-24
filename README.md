@@ -16,7 +16,7 @@
 <br/>
 
 ## 목표
-<li>휠체어 리프트 이용객 편의 증진 및 안전 확보 </li>
+<li>휠체어 리프트 이용객 편의 증진 (이용 대기 시간 7분 감축) 및 안전 확보 </li>
 
 <br/>
 <img src="https://github.com/Joong-main/OSS_project/blob/main/doc/img/%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B0%9C%EC%84%A0.PNG"></img>
