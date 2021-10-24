@@ -52,3 +52,8 @@
 
 ### 사용예정 라이브러리 및 오픈소스
 <ul>Numpy</ul>
+<ul>Tensor Flow</ul>
+<ul>Open CV</ul>
+<ul>PIL</ul>
+<ul><a href="https://teachablemachine.withgoogle.com/">Teachable Machine</a></ul>
+<ul>node js</ul>
